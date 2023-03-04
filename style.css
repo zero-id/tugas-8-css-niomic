@@ -1,0 +1,26 @@
+body {
+    background-image: url(awan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.satu {
+    background-color: white;
+    background-image: url(avocado.jpg);
+    background-repeat: repeat-y;
+    width: 800px;
+    height: 300px;
+    overflow: scroll;
+}
+
+p {
+    color: blue;
+}
+
+p.dua {
+    color: green;
+}
+
+p.tiga {
+    color: red;
+}
